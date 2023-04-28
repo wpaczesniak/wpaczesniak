@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wojciech Pacześniak</h1>
 My name is Wojciech Pacześniak and currently I am a second-year Applied Computer Science student at the Warsaw University of Technology. I love to learn about new tools/technologies and understand how they work.
 
-- 🌱 I’m currently learning **Python(Pandas, NumPy)**
+- 🌱 I’m currently learning **Python (Pandas, NumPy)**
 
 - 💬 Ask me about **Data Analyst**
 
@@ -15,6 +15,6 @@ My name is Wojciech Pacześniak and currently I am a second-year Applied Compute
 
 <h3 align="center">Connect with me:</h3>
 <p align = "center">
-<a href="mailto:paczesniakwojciech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black"></a>
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/wpaczesniak/)</a>
+<a href="mailto:tomasz.gryczka.b@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" ></a>
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/gryczka-tomasz/)
 </p>
