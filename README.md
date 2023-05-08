@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wojciech Pacześniak</h1>
 My name is Wojciech Pacześniak and currently I am a second-year Applied Computer Science student at the Warsaw University of Technology. I love to learn about new tools/technologies and understand how they work.
 
-- 🌱 I’m currently learning **Python (Pandas, NumPy)**
+- 🌱 I am currently working in **Python (Pandas, NumPy)**
 
 - 💬 Ask me about **Data Analyst**
 
